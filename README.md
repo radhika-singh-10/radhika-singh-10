@@ -1,7 +1,9 @@
 
 - 👋 Hi, I’m Radhika Singh
-- 👀 I’m currently a student at University at Buffalo
+- 👀 I’m currently a Computer Science Maters student in University at Buffalo
 - 📫 You can reach out to me at rsingh57@buffalo.edu ...
+- You can reach out to me at rsingh57@buffalo.edu for any more information.
+
 
 <!---
 Radhika-singh-10/radhika-singh-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
