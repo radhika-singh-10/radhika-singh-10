@@ -1,7 +1,10 @@
 # Hi there! I'm Radhika Singh 👋
 <img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/radhikasingh.png" alt="Radhika Singh"  width="250"/>
+
 🎓 **MS in Computer Science** @ University at Buffalo  
-💻 **Software Engineer | Full Stack Developer**  
+
+💻 **Software Engineer | Full Stack Developer** 
+
 🤖 **Generative AI Enthusiast | #SafeAI Advocate**  
 
 ---
@@ -9,7 +12,9 @@
 ## 🛠️ Skills & Technologies
 
 ### **Programming Languages**
-- **Proficient**: C#, Python, JavaScript  
+
+- **Proficient**: C#, Python, JavaScript
+   
 - **Experienced**: SQL, Java, TypeScript
 
 ### **Frontend Development**
