@@ -5,7 +5,7 @@
 
 💻 **Software Engineer | Full Stack Developer** 
 
-🤖 **Generative AI Enthusiast | #SafeAI Advocate**  
+🤖 **Generative AI | #SafeAI**  
 
 ---
 
