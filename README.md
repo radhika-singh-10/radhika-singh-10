@@ -47,7 +47,7 @@
 
 ## 🌱 Always Learning
 - Advanced Machine Learning (Hugging Face, TensorFlow, PyTorch)  
-- Cloud-Native Development (AWS, Kubernetes)  
+- Cloud-Native Development (AWS, PCF-Tanzu)  
 - OpenCV & Computer Vision  
 
 ---
