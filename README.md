@@ -7,7 +7,7 @@
 
 🤖 **Generative AI | #SafeAI**  
 
-🚀 **Currently looking for Software Engineer Full-Time Roles**
+🚀 **Currently looking for Software Engineer Full-Time Roles starting May 2025**
 
 **Contact me at 📧: [rsingh57@buffalo.edu]**
 
