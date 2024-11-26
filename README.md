@@ -7,6 +7,13 @@
 
 🤖 **Generative AI | #SafeAI**  
 
+🚀 **Currently looking for Software Engineer Full-Time Roles**
+
+**Contact me at 📧: [rsingh57@buffalo.edu]**
+
+
+
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -15,7 +22,7 @@
 
 - **Proficient**: C#, Python, JavaScript
    
-- **Experienced**: SQL, Java, TypeScript
+- **Experienced**: SQL, Java, TypeScript, Python, Node.js, React, Angular
 
 ### **Frontend Development**
 - React, Angular, HTML/CSS  
