@@ -69,8 +69,10 @@
 
 ## ✨ Fun Fact
 _"The best way to predict the future is to create it."_  
-- "DC vs. Marvel [Amalgam Universe] - Batman took on Captain America in a battle of strategy and skill—and Batman emerged victorious."
--  "In a parallel universe, there might be a version of you reading this exact sentence, but it's written backwards! 😄"
+
+_"DC vs. Marvel [Amalgam Universe] - Batman took on Captain America in a battle of strategy and skill—and Batman emerged victorious."_
+
+_"In a parallel universe, there might be a version of you reading this exact sentence, but it's written backwards! 😄"_
 
 <!---
 Radhika-singh-10/radhika-singh-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
