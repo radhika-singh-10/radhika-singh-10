@@ -39,7 +39,7 @@
 ---
 
 ## 🚀 What I’m Working On
-- 🌟 **AI Safety Research**  
+- 🌟 **Responsbile and Safe AI Research**  
   Improving AI models for detecting unsafe and toxic content on online platforms.  
 - 🤖 **Generative AI Applications**  
   Designing and implementing innovative AI-powered solutions.  
