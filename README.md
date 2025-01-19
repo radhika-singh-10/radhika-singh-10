@@ -64,6 +64,24 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhika.singh@example.com)  
 
 
+---
+## 📈 GitHub Insights:
+![Total Commits](https://img.shields.io/badge/Total_Commits-696-brightgreen)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/radhika-singh-10/radhika-singh-10/main/path-to-dark-image.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/radhika-singh-10/radhika-singh-10/main/path-to-light-image.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/radhika-singh-10/radhika-singh-10/main/path-to-light-image.svg"
+  />
+</picture>
 
 ---
 
