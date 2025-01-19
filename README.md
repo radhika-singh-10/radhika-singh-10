@@ -67,6 +67,7 @@
 ---
 ## 📈 GitHub Insights:
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-696-brightgreen)
+Total Commits: 0
 
 <picture>
   <source
