@@ -3,13 +3,13 @@
 
 🎓 **MS in Computer Science** @ University at Buffalo  
 
-💻 **Software Engineer | Full Stack Developer** 
+💻 **Software Engineer | Full Stack Development** 
 
-🤖 **Generative AI | #SafeAI**  
+🤖 **Generative AI | #ResponsibleAI**  
 
 🚀 **Currently looking for Software Engineer Full-Time Roles starting May 2025**
 
-**Contact me at 📧: [rsingh57@buffalo.edu]**
+**Contact me at 📧: [rsingh57@buffalo.edu] | [716-910-7687]**
 
 
 
@@ -40,9 +40,10 @@
 
 ## 🚀 What I’m Working On
 - 🌟 **Responsbile and Safe AI Research**  
-  Improving AI models for detecting unsafe and toxic content on online platforms.  
+  Improving AI models for detecting unsafe and toxic content on online platforms.
+  
 - 🤖 **Generative AI Applications**  
-  Designing and implementing innovative AI-powered solutions.  
+  Designing, innovating, and deploying AI-powered solutions.  
 
 ---
 
@@ -64,27 +65,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhika.singh@example.com)  
 
 
----
-## 📈 GitHub Insights:
-![Total Commits](https://img.shields.io/badge/Total%20Commits-696-brightgreen)
-Total Commits: 0
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/radhika-singh-10/radhika-singh-10/main/path-to-dark-image.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/radhika-singh-10/radhika-singh-10/main/path-to-light-image.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/radhika-singh-10/radhika-singh-10/main/path-to-light-image.svg"
-  />
-</picture>
-
----
 
 ## ✨ Fun Fact
 _"The best way to predict the future is to create it."_  
