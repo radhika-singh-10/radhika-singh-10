@@ -67,7 +67,7 @@
 
 
 
-## ✨ Fun Fact
+## ✨ Fun Facts
 _"The best way to predict the future is to create it."_  
 
 _"DC vs. Marvel [Amalgam Universe] - Batman took on Captain America in a battle of strategy and skill—and Batman emerged victorious."_
