@@ -1,5 +1,5 @@
 # Hi there! I'm Radhika Singh 👋
-<img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/radhikasingh.png" alt="Radhika Singh"  width="250"/>
+<img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/desk_place.png" alt="Work in Progress :)"  width="250"/>
 
 🎓 **MS in Computer Science** @ University at Buffalo  
 
