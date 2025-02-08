@@ -1,6 +1,6 @@
 # Hi there! I'm Radhika Singh 👋
 
-<img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/working_desktop_setup.gif" alt="Work in Progress :)"  width="350" align='right'/>
+<img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/working_desktop_setup.gif" alt="Work in Progress :)"  width="200" align='right'/>
 
 🎓 **MS in Computer Science** @ University at Buffalo  
 
