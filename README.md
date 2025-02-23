@@ -13,7 +13,9 @@
 **Contact me at 📧: [rsingh57@buffalo.edu] | [716-910-7687]**
 
 
+![](https://komarev.com/ghpvc/?username=radhika-singh-10)
 
+![GitHub followers](https://img.shields.io/github/followers/radhika-singh-10?label=Follow&style=social)
 
 ---
 
