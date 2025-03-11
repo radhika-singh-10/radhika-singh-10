@@ -8,7 +8,7 @@
 
 🤖 **Generative AI | #ResponsibleAI**  
 
-🚀 **Currently looking for [Software Engineer | Full-Time Roles | Machine-Learning-Engineer] starting May 2025**
+🚀 **Currently looking for [Software Engineer | Full-Time Roles | Machine-Learning-Engineer] starting June 2025**
 
 **Contact me at 📧: [rsingh57@buffalo.edu] | [716-910-7687]**
 
