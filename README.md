@@ -8,7 +8,7 @@
 
 🤖 **Generative AI | #ResponsibleAI**  
 
-🚀 **Currently looking for [Software Engineer | Full-Time Roles | Machine-Learning-Engineer] starting June 2025**
+🚀 **Currently looking for [Software Engineer | Full-Time Roles | Machine-Learning-Engineer] starting July 2025**
 
 **Contact me at 📧: [rsingh57@buffalo.edu] | [716-910-7687]**
 
@@ -43,7 +43,7 @@
 
 ## 💼 Professional Experience
 - **Software Engineer @ Dell (3 Years)**  
-  Contributed to billion-dollar online supply chain projects, filed a US patent for an AI-driven product.  
+  Contributed to billion-dollar online supply chain projects, and filed a US patent for an AI-driven product.  
 
 ---
 
@@ -55,18 +55,9 @@
 ---
 
 ## 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhika-singh)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhika.singh@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/radhika-singh)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhika.singh@example.com)  
 
 
-
-
-## ✨ Fun Facts
-_"The best way to predict the future is to create it."_  
-
-_"DC vs. Marvel [Amalgam Universe] - Batman took on Captain America in a battle of strategy and skill—and Batman emerged victorious."_
-
-_"In a parallel universe, there might be a version of you reading this exact sentence, but it's written backwards! 😄"_
 
 <!---
 Radhika-singh-10/radhika-singh-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
