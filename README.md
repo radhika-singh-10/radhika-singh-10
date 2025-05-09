@@ -10,7 +10,7 @@
 
 🚀 **Currently looking for [Software Engineer | Full-Time Roles | Machine-Learning-Engineer] starting July 2025**
 
-**Contact me at 📧: [rsingh57@buffalo.edu] | [716-910-7687]**
+**Contact me at 📧: [radhika.singh.10.01.98@gmail.com] | [716-910-7687]**
 
 
 ![](https://komarev.com/ghpvc/?username=radhika-singh-10)
