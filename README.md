@@ -8,7 +8,7 @@
 
 🤖 **Generative AI | #ResponsibleAI**  
 
-🚀 **Currently looking for [Software Engineer | Full-Time Roles | Machine-Learning-Engineer] starting July 2025**
+🚀 **Currently looking for Full-Time [Software Engineer | Machine-Learning-Engineer] starting July 2025**
 
 **Contact me at 📧: [radhika.singh.10.01.98@gmail.com] | [716-910-7687]**
 
