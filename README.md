@@ -67,27 +67,30 @@
 
 ## 🚀 What I’m Working On
 - 🌟 **Responsible and Safe AI Research**  
-  Conducting inference and improving AI models using methods like PEFT and RLHF for detecting unsafe and toxic content on online platforms.
+
+  -- Conducting inference and improving AI models using methods like PEFT and RLHF for detecting unsafe and toxic content on online platforms.
   
 - 🌟 **Generative AI Infrastructure**  
-  Designing, innovating, and deploying AI-powered infrastructure.
+
+  -- Designing, innovating, and deploying AI-powered infrastructure.
 
 ---
 
 ## 💼 Professional Experience
 
 - **Research Aide @ University at Buffalo (1+ Year)**
-   Conducted research in the area of AI Safety to develop safeguards for ensuring safety on social platforms.
+
+  -- Conducted research in the area of AI Safety to develop safeguards for ensuring safety on social platforms.
   
-- **Software Engineer @ Dell (3 Years)**  
-  Contributed to billion-dollar online supply chain projects and filed a US patent for an AI-driven product.  
+- **Software Engineer @ Dell (3 Years)**
+
+  -- Contributed to billion-dollar online supply chain projects and filed a US patent for an AI-driven product.  
 
 ---
 
 ## 🌱 Always Learning
-- Advanced Machine Learning (Hugging Face, TensorFlow, PyTorch)  
-- Cloud-Native Development (AWS, PCF-Tanzu)  
-- OpenCV & Computer Vision  
+- Infrastructure [Cloud, AI/ML]
+- Networking, and Distributed Systems
 
 ---
 
