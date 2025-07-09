@@ -6,7 +6,7 @@
 
 💻 **Software Engineer | Full Stack Development | AI Engineer** 
 
-🤖 **Generative AI | #ResponsibleAI | Infrastructure**  
+🤖 **Generative AI | ResponsibleAI | Infrastructure**  
 
 
 **Contact me at 📧: [radhika.singh.10.01.98@gmail.com] | [716-910-7687]**
@@ -67,14 +67,18 @@
 
 ## 🚀 What I’m Working On
 - 🌟 **Responsible and Safe AI Research**  
-  Improving AI models for detecting unsafe and toxic content on online platforms.
+  Conducting inference and improving AI models using methods like PEFT and RLHF for detecting unsafe and toxic content on online platforms.
   
-- 🤖 **Generative AI Applications**  
-  Designing, innovating, and deploying AI-powered solutions.  
+- 🌟 **Generative AI Infrastructure**  
+  Designing, innovating, and deploying AI-powered infrastructure.
 
 ---
 
 ## 💼 Professional Experience
+
+- **Research Aide @ University at Buffalo (1+ Year)**
+   Conducted research in the area of AI Safety to develop safeguards for ensuring safety on social platforms.
+  
 - **Software Engineer @ Dell (3 Years)**  
   Contributed to billion-dollar online supply chain projects and filed a US patent for an AI-driven product.  
 
