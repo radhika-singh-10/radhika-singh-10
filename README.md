@@ -64,6 +64,11 @@ As a forward-thinking Software Engineer with over 3 years of experience in Produ
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhika-singh-10&show_icons=true&locale=en&layout=compact" alt="radhika-singh-10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhika-singh-10&show_icons=true&locale=en" alt="radhika-singh-10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhika-singh-10&" alt="radhika-singh-10" /></p>
 
 ---
 
