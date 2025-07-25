@@ -6,7 +6,7 @@ As a forward-thinking Software Engineer with over 3 years of experience in Produ
 
 🎓 **MS in Computer Science** @ **University at Buffalo**  
 💻 **Software Engineer | Full Stack Development | AI Engineer**  
-🤖 **Generative AI | ResponsibleAI | Infrastructure**  
+🤖 **Generative AI | ResponsibleAI | Infrastructure | Cloud | SmartAutomation**  
 
 📫 **Contact:** [radhika.singh.10.01.98@gmail.com](mailto:radhika.singh.10.01.98@gmail.com) | 📞 716-910-7687
 
