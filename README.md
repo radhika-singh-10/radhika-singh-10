@@ -1,6 +1,9 @@
 # Hi there! I'm Radhika Singh 👋
 
-<img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/working_desktop_setup.gif" alt="Work in Progress :)" width="200" align="right" />
+<!--
+                                                                  Desktop Image
+<img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/working_desktop_setup.gif" alt="Work in Progress :)" width="200" align="right" />  
+-->
 
 As a forward-thinking Software Engineer with over 3 years of experience in Product Development, I excel in creating exceptional digital experiences.
 
