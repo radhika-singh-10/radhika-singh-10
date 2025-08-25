@@ -7,11 +7,14 @@
 
 As a forward-thinking Software Engineer with over 3 years of experience in Product Development, I excel in creating exceptional digital experiences.
 
+💻 **Consultant - E1 | Software Engineer @ HCLAmerica Inc., collaborating with Cisco Network and Security Engineering Group**
 🎓 **MS in Computer Science** @ **University at Buffalo**  
 💻 **Software Engineer | Full Stack Development | AI Engineer**  
 🤖 **Generative AI | ResponsibleAI | Infrastructure | Cloud | SmartAutomation**  
 
-📫 **Contact:** [radhika.singh.10.01.98@gmail.com](mailto:radhika.singh.10.01.98@gmail.com) | 📞 716-910-7687
+📫 **I'm always looking forward to collaborating to innovate, develop new and improve existing products to solve real-world problems** 
+
+**If you're interested in knowing more about my experience and work, please contact me:** [radhika.singh.10.01.98@gmail.com](mailto:radhika.singh.10.01.98@gmail.com) | 📞 716-910-7687
 
 [![](https://komarev.com/ghpvc/?username=radhika-singh-10)](https://github.com/radhika-singh-10)
 ![GitHub followers](https://img.shields.io/github/followers/radhika-singh-10?label=Follow&style=social)
