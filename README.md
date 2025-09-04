@@ -7,7 +7,7 @@
 
 As a forward-thinking Software Engineer with over 3 years of experience in Product Development, I excel in creating exceptional digital experiences.
 
-💻 **Consultant - E1 | Software Engineer @ HCLAmerica Inc., collaborating with Cisco Network and Security Engineering Group**
+<!--💻 **Consultant - E1 | Software Engineer @ HCLAmerica Inc., collaborating with Cisco Network and Security Engineering Group** -->
 🎓 **MS in Computer Science** @ **University at Buffalo**  
 💻 **Software Engineer | Full Stack Development | AI Engineer**  
 🤖 **Generative AI | ResponsibleAI | Infrastructure | Cloud | SmartAutomation**  
