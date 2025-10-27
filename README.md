@@ -16,7 +16,7 @@ As a forward-thinking Software Engineer with over 3 years of experience in Produ
 
 **If you're interested in knowing more about my experience and work, please contact me:** 
 
-         radhika.singh.10.01.98@gmail.com |  716-910-7687
+         radhika.singh.64.32.16@gmail.com |  716-910-7687
 
 [![](https://komarev.com/ghpvc/?username=radhika-singh-10)](https://github.com/radhika-singh-10)
 ![GitHub followers](https://img.shields.io/github/followers/radhika-singh-10?label=Follow&style=social)
