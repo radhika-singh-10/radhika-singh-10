@@ -106,6 +106,8 @@ As a forward-thinking Software Engineer with over 3 years of experience in Produ
 ---
 
 ## 💼 Professional Experience
+- **Software Engineer/ AI/ML Engineer (Sept 2025- PRESENT)**
+  -- Contribution to the development of AI Security products for ensuring the remediation of policy violations at enterprise Saas platforms.
 
 - **Research Aide @ University at Buffalo (1+ Year)**
 
