@@ -95,24 +95,17 @@ As a forward-thinking Software Engineer with over 4 years of experience in Produ
 ---
 
 ## 🚀 What I’m Working On
-- 🌟 **Responsible and Safe AI Research**  
-
-  -- Conducting inference and improving AI models using methods like PEFT and RLHF for detecting unsafe and toxic content on online platforms.
   
 - 🌟 **Generative AI Infrastructure**  
 
-  -- Designing, innovating, and deploying AI-powered infrastructure.
+  -- Designing, innovating, and deploying AI-powered optimal agentic infrastructure.
 
 ---
 
 ## 💼 Professional Experience
-- **Software Engineer/ AI/ML Engineer (Sept 2025- PRESENT)**
+- **Software Engineer/ AI/ML Engineer (Sept 2025 - PRESENT)**
   
-  -- Contribution to the development of AI Security products for ensuring the remediation of policy violations at enterprise Saas platforms.
-
-- **Research Aide @ University at Buffalo (1+ Year)**
-
-  -- Conducted research in the area of AI Safety to develop safeguards for ensuring safety on social platforms.
+  -- Contribution to the development of AI Security products for ensuring the remediation of policy violations at enterprise AI/Saas platforms.
   
 - **Software Engineer @ Dell (3 Years)**
 
@@ -123,6 +116,7 @@ As a forward-thinking Software Engineer with over 4 years of experience in Produ
 ## 🌱 Always Learning
 - Infrastructure [Cloud, AI/ML]
 - Networking, and Distributed Systems
+- A2A Workflow
 
 ---
 
