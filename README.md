@@ -5,14 +5,14 @@
 <img src="https://github.com/radhika-singh-10/radhika-singh-10/blob/main/working_desktop_setup.gif" alt="Work in Progress :)" width="200" align="right" />  
 -->
 
-As a forward-thinking Software Engineer with over 3 years of experience in Product Development, I excel in creating exceptional digital experiences.
+As a forward-thinking Software Engineer with over 4 years of experience in Product Development, I excel in creating exceptional digital experiences.
 
-<!--💻 **Consultant - E1 | Software Engineer @ HCLAmerica Inc., collaborating with Cisco Network and Security Engineering Group** -->
+💻 **Software Engineer** @ **Lineaje** 
 🎓 **MS in Computer Science** @ **University at Buffalo**  
-💻 **Software Engineer | Full Stack Development | AI Engineer**  
+💻 **Software Engineer | Full Stack Development | AI/ML Engineer**  
 🤖 **Generative AI | ResponsibleAI | Infrastructure | Cloud | SmartAutomation**  
 
-📫 **I'm always looking forward to collaborating to innovate, develop new and improve existing products to solve real-world problems** 
+📫 **I'm always looking forward to collaborating to innovate, develop new, and improve existing products to solve real-world problems** 
 
 **If you're interested in knowing more about my experience and work, please contact me:** 
 
