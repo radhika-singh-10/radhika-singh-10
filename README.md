@@ -7,7 +7,7 @@
 
 As a forward-thinking Software Engineer with over 4 years of experience in Product Development, I excel in creating exceptional digital experiences.
 
-💻 **Software Engineer** @ **Lineaje** 
+💻 **Software Engineer** @ **Lineaje** | **ex-Dell**
 🎓 **MS in Computer Science** @ **University at Buffalo**  
 💻 **Software Engineer | Full Stack Development | AI/ML Engineer**  
 🤖 **Generative AI | ResponsibleAI | Infrastructure | Cloud | SmartAutomation**  
