@@ -12,7 +12,7 @@ As a forward-thinking Software Engineer with over 4 years of experience in Produ
 💻 **Software Engineer | Full Stack Development | AI/ML Engineer**  
 🤖 **Generative AI | ResponsibleAI | Infrastructure | Cloud | SmartAutomation**  
 
-📫 **I'm always looking forward to collaborating to innovate, develop new, and improve existing products to solve real-world problems** 
+📫 **I'm always looking forward to collaborating for innovating, developing new, and improving existing products focused on solve real-world problems** 
 
 **If you're interested in knowing more about my experience and work, please contact me:** 
 
